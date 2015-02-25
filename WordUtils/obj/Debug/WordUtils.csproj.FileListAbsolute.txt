@@ -1,0 +1,9 @@
+D:\myprojects\WordUtils\WordUtils\obj\Debug\WordUtils.csprojResolveAssemblyReference.cache
+D:\myprojects\WordUtils\WordUtils\obj\Debug\WordUtils.Form1.resources
+D:\myprojects\WordUtils\WordUtils\obj\Debug\WordUtils.Properties.Resources.resources
+D:\myprojects\WordUtils\WordUtils\obj\Debug\WordUtils.csproj.GenerateResource.Cache
+D:\myprojects\WordUtils\WordUtils\bin\Debug\WordUtils.exe
+D:\myprojects\WordUtils\WordUtils\bin\Debug\WordUtils.pdb
+D:\myprojects\WordUtils\WordUtils\bin\Debug\DocumentFormat.OpenXml.dll
+D:\myprojects\WordUtils\WordUtils\obj\Debug\WordUtils.exe
+D:\myprojects\WordUtils\WordUtils\obj\Debug\WordUtils.pdb
